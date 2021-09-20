@@ -1,5 +1,7 @@
 #Data expression through R
 
+#Skills displayed : filtering, summarise, factor, dplyr, ggplot2, boxplot, scatterplot, histogram
+
 ###Data
 ##The data used here is from the [Bureau of Transportation Statistics].
 
