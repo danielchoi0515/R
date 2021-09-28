@@ -1,3 +1,5 @@
+#Testing probability in R and proving independence of a dataset. 
+
 #load packages
 library(dplyr)
 library(ggplot2)
